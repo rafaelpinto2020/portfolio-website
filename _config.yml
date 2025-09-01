@@ -1,0 +1,9 @@
+title: "Rafael Pinto – Portfolio"
+description: "Machine Learning & Software Engineering"
+theme: jekyll-theme-cayman  # simple, clean; you can switch later
+url: "https://rafaelpinto2020.github.io"
+baseurl: "/portfolio-website"  # remove if you deploy to your user site repo
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
